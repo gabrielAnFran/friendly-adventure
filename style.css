@@ -1,0 +1,368 @@
+html{
+  margin: 24px;
+}
+
+header{
+  width: 95.14%;
+  height: 129px;
+  /*background-color: yellow;*/
+  margin-bottom: 23px;
+}
+
+nav{
+  max-width: 95.14%;
+  background-color: white;
+  height: 40px;
+  width: 100%;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+#menu{
+  width: 116%;
+  padding-top: 7px;
+  margin-left: -40px;
+  height: 30px;
+}
+
+ul li a{
+  color: #ffffff;
+}
+
+ul li{
+  background-color: #3d5057;
+  width: 100%;
+  margin-left: -20px;
+}
+
+li a{
+  margin-top: 10px;
+}
+
+a:hover {
+  background-color: #667a82;
+}
+
+
+#foster{
+  height: 100%;
+  width: 20%;
+}
+
+#busca{
+  margin-top:101.5px ;
+  float:right;
+  width: 40%;
+  box-sizing: border-box;
+  border: 1px solid #c4c4c4;
+  padding-left: 5px;
+}
+
+
+#button{
+  margin-top:100px ;
+  float: right;
+  padding-right: 1px;
+         margin-right: -18.5px;
+}
+
+#banner{
+  height:100%;
+  width: 100.8%;
+  margin-bottom: 10px;
+}
+#screenlogo{
+  width: 100%;
+  height: 100%;
+}
+
+#left{
+  margin-left: -14px;
+  background-color: #f0f0f0;
+  float:left;
+  margin-bottom: 25px;
+  height: 101%;
+  width: 102%;
+  margin-right: 25px;
+  font-size: 12px;
+}
+
+#titleleft{
+  padding: 20px 0 20px 20px;
+}
+
+#righttitle{
+text-align: center;
+padding-right: 100px;
+}
+
+.titles{
+  font-style: bold;
+  font-family: arial;
+  font-style: 16px;
+  color: #354348;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+#titleleft{
+  font-style: bold;
+  font-family: arial;
+  font-style: 16px;
+}
+
+p{ 
+  padding: 0 20px 20px 20px;
+}
+
+#right{
+  float: left;
+  margin-bottom: 25px;
+  background-color: #f0f0f0;
+  height: 606px;
+  width: 102%;
+  margin-left: -14px;
+  clear: all;
+}
+
+.container-fluid{
+    margin-left: 14px;
+}
+
+.list{
+  background-color: transparent;
+  padding-top: 10px;
+  width: 50%;
+  float: right;
+  margin-top: -200;
+  padding-bottom: 20px;
+  margin-left: -30px;
+  font-size: 12px;
+  padding-right: 20px;
+}
+
+#imgprime{
+  float: right;
+  padding-top: 20px;
+}
+
+#cafe{
+  float: left;
+  height: 90%;
+  width: 40%;
+  margin-top: 20px;
+  padding-left: 20px;
+}
+
+footer{
+  width: 100%;
+  height:40px ;
+  margin-bottom: 24px;
+  background-color: #dddddd;
+  margin-top: 755px;
+    margin-right: 25px;
+
+}
+
+#materials{
+  float: right;
+}
+
+footer{
+  margin-left: 1px;
+  clear: both;
+}
+
+#f{
+  font-family: arial;
+  font-size: 9px;
+  color: #6a6565;
+  text-align: center;
+  padding-top: 12.5px; 
+    clear: both;
+}
+
+a{
+  text-decoration: none;
+}
+
+#la{
+    margin-bottom: -20px;
+}
+#lb{
+    margin-bottom: -20px;
+}
+#lc{
+    margin-bottom: -20px;
+}
+#ld{
+    margin-bottom: -20px;
+}
+#le{
+    margin-bottom: -20px;
+}
+#lf{
+    margin-bottom: -20px;
+}
+#lg{
+    margin-bottom: -20px;
+}
+#lh{
+    margin-bottom: -20px;
+}
+#li{
+    margin-bottom: -20px;
+}
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width:769px){
+    .container-fluid{
+    margin-left: 14px;
+}
+  html{
+    margin: 24px;
+  }
+    nav{
+        width: 95.14%
+    }
+
+  body{
+    max-width: 989px;
+  
+  }
+
+  #busca{
+    width: 20%;
+      margin-right: -500px
+  }
+
+  #button{
+    margin-top:100px ;
+    float: right;
+    padding-right: 1px;
+      margin-left: 500px;
+      margin-right: 0;
+ 
+  }
+
+  #right{
+    margin-left: -60px;
+    width: 458px;
+    margin-right: -20px;
+    height: 100%;
+  }
+   #banner{
+       width: 952px;
+        
+    }
+  
+  #left{
+    width: 458px;
+    margin-right: 84px;
+    text-align: left;
+      height: 
+  }
+
+  #titleleft{
+    padding-right: 100px;
+  }
+
+  #imgprime{
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .list{
+    width: 45%;
+    margin-right: 44px;
+    font-style: normal;
+    font-family: Arial;
+    font-size: 12px;
+    color: #354348;
+ }
+  
+  #cafe{
+    float: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 460px;
+    width: 180px;
+  }
+
+  ul{
+    width: 104.2%;
+   
+  }
+
+  ul li{
+    float: left;
+    width: 31.9%;
+    margin-left: -40px;
+    margin-right: 10px;
+    height: 40px;
+  }
+  nav{
+    background-color: #ffffff;
+  }
+  #sobre{
+   margin-left: 10px;
+  }
+
+ #contato{
+  margin-left: 10px;
+  margin-right: -10px;
+ }
+
+ li a{
+   height: 40px;
+   margin-top: -7px;
+   padding-top: 8px;
+   
+   display: block;
+ }
+
+ a{
+   margin-top: 10px;
+ }
+
+ a:hover {
+  background-color: #667a82;
+}
+
+footer{
+  margin-top: -220px;
+    clear: both;
+    width: 941px;
+}
+
+.titles{
+  padding-right: 20px 20px 20px 20px;
+}
+
+#titleleft{
+  margin-left: 20px;
+ 
+    font-style: bold;
+    font-family: arial;
+    font-style: 10px;
+    color: #354348;
+}
+
+.prgh{
+  font-style: normal;
+  font-family: Arial;
+  font-size: 12px;
+  color: #354348
+}
+    .pc{
+        width: 30.55%;
+    }
+
+}
